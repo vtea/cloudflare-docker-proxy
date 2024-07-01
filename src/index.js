@@ -14,6 +14,7 @@ const routes = {
   "k8s.gaiasc.com": "https://registry.k8s.io",
   "ghcr.gaiasc.com": "https://ghcr.io",
   "cloudsmith.gaiasc.com": "https://docker.cloudsmith.io",
+  "ecr.gaiasc.com": "https://public.ecr.aws",
 
   // staging
   "docker-staging.gaiasc.com": dockerHub,
